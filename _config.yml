@@ -1,7 +1,6 @@
-title: Wai Yip's Blog
-description: Personal blog and project showcase
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  
+title: Wai Yip Blog
+description: Personal tech blog powered by GitHub Pages
+theme: jekyll-theme-minimal
+author: Wai Yip
+show_downloads: false
+google_analytics:
